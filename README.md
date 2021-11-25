@@ -49,6 +49,10 @@ My ohmyzsh theme
 
 - Font Size: 13
 
+### Screenshot
+
+![](screenshot.jpg)
+
 #### License
 
-MIT
+[MIT](LICENSE)
