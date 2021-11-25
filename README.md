@@ -49,7 +49,7 @@ My ohmyzsh theme
 
 - Font Size: 13
 
-### Screenshot
+#### Screenshot
 
 ![](screenshot.jpg)
 
